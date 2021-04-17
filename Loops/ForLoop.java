@@ -1,6 +1,7 @@
 #for loop chnage is done as per student view
 public class ForLoop 
 {  
+	#adding a comment
 	public static void main(String[] args) 
 	{
 		// Display Prime Numbers between 1 and 100
