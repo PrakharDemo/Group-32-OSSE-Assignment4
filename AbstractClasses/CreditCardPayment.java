@@ -1,6 +1,6 @@
 package program;
 
-public class CreditCardPayment extends PaymentServices
+public class CreditCardPaymentgateway extends PaymentServices
 {
 	private static int counter;
 	private String paymentId;
@@ -12,7 +12,7 @@ public class CreditCardPayment extends PaymentServices
 		counter = 1000;
 	}
 	
-	public CreditCardPayment (double balance, int customerId) 
+	public CreditCardPaymentgateway (double balance, int customerId) 
 	{
 		super(balance, customerId);
 	}
