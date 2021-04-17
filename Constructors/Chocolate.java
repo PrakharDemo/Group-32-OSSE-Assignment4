@@ -1,3 +1,5 @@
+#Chocolate is the constructor class for Java program.
+
 public class Chocolate 
 {
 	private int barCode;
@@ -48,5 +50,15 @@ public class Chocolate
 	public void setCost(int cost) 
 	{
 		this.cost = cost;
+	}
+	
+	public void gettaste()
+	{
+		retrin type;
+	}
+	
+	public void settaste(int type)
+	{
+		this.type = type; 
 	}
 }
