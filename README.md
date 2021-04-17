@@ -7,11 +7,13 @@
 * Prabhakar M  (2020mt93050)
 * Shammi Arora (2020mt93091)
 * Juie Deshmukh(2020mt93178)
+* Awais Hussain(2020mt93185)
 
 
 ## About / Synopsis
 
 * We created a demo repository for Assignment 4 of OSSE, for group 32.
+* The team comprises five members.
 * The repository was initially blank.
 * The owner (Prakhar) invited team mebers to collaborate on the project.
 * Each collaborator, then forked the repository.
@@ -19,7 +21,8 @@
 
 ## Purpose:
 * Contributing to Open Source Software for Assignment
-* Project status: In Progress
+* The repository comprises several java fundemental programs for new students to understand java concepts.
+* Project status: Completed
 * BITS WILP Students of Group 32 in Open Source Software Engineering Subject, contributing towards the shared repository.
 
 
@@ -32,14 +35,15 @@ Opps concepts in Java for Students.
 All the feature of OOPS 
 1) Loops
 2) Constructor
-3) Enum
-
-
-
+3) Abstract classes
+4) Nested class
+5) Other programs
+6) Enum
 7) Polymorphism
 8) Simple Programs
 9) Paramterized Constructor
 10) Java Libraries
+
 
 ## Build
 
@@ -52,7 +56,7 @@ user can deploy it in their system for testing.
 ## Resources (Documentation and other links)
 
 Java SDK - Required.
-Eclipse IDE can be used - Optional.
+Eclipse IDE/Visual Studio code can be used - Optional.
 
 ## Contributing / Reporting issues
 
