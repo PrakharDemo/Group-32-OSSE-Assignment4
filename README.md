@@ -10,10 +10,17 @@
 
 ## About / Synopsis
 
-* This is a demo repository for Assignment 4 of OSSE, for group 32.
+* We created a demo repository for Assignment 4 of OSSE, for group 32.
+* The repository was initially blank.
+* The owner (Prakhar) invited team mebers to collaborate on the project.
+* Each collaborator, then forked the repository.
+
+
+## Purpose:
 * Contributing to Open Source Software for Assignment
 * Project status: In Progress
-* BITS WILP Students support
+* BITS WILP Students of Group 32 in Open Source Software Engineering Subject, contributing towards the shared repository.
+
 
 ## Usage
 
