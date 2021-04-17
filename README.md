@@ -15,36 +15,37 @@
 * Project status: In Progress
 * BITS WILP Students support
 
-## Usage
+## Features
 
-### Features
 Opps concepts in Java for Students.
 
 ## Code
+
 All the feature of OOPS 
 1) Loops
 2) Constructor
 
+## Build
 
-### Build
+mvn clean install - using eclips IDE
 
-    mvn clean install  using eclips IDE
+## Deploy (how to install build product)
 
-Build options:
-
-* ...
-
-### Deploy (how to install build product)
+user can deploy it in their system for testing.
 
 ## Resources (Documentation and other links)
 
+Java SDK - Required.
+Eclipse IDE can be used - Optional.
+
 ## Contributing / Reporting issues
 
-Link to JIRA component (or project if there is no component for that project). Samples:
+Please refer the issue section for issues. 
+All issues should be closed by assgined user ASAP.
 
 ## License
-
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+Please refer attached License section or refer below section.
+[Apache License, Version 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html)
 
 
 
