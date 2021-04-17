@@ -1,5 +1,5 @@
 package program;
-
+//online class payemnt
 public class OnlinePayment extends PaymentServices 
 {
 	private static int counter;
@@ -7,7 +7,7 @@ public class OnlinePayment extends PaymentServices
 	
 	static
 	{
-		counter = 5000;
+		counter = 1000;
 	}
 	
 	public OnlinePayment(double balance, int customerId) 
