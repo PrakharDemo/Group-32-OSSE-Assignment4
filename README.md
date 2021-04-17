@@ -4,7 +4,7 @@
 ## Team /BITS Group32 
 * Prakhar Srivatsava (2020MT93244)
 * Prabhakar M  (2020mt93050)
-* Shammi Arora
+* Shammi Arora (2020mt93091)
 * Juie Deshmukh
 
 
