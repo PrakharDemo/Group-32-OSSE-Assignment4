@@ -32,6 +32,14 @@ Opps concepts in Java for Students.
 All the feature of OOPS 
 1) Loops
 2) Constructor
+3) Enum
+
+
+
+7) Polymorphism
+8) Simple Programs
+9) Paramterized Constructor
+10) Java Libraries
 
 ## Build
 
