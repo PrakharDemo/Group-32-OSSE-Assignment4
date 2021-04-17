@@ -6,7 +6,7 @@ This is a demo repository for Assignment 4 of OSSE, for group 32
 * Prakhar Srivatsava
 * Prabhakar M
 * Shammi Arora
-* Juie Deshmukh
+* Juie Deshmukh(2020mt93178)
 
 
 ## About / Synopsis
