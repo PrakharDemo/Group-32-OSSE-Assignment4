@@ -1,1 +1,1 @@
-Explains the use fo Static
+# This program explains the use of Static modifier in Java
