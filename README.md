@@ -38,6 +38,12 @@ All the feature of OOPS
 3) Abstract classes
 4) Nested class
 5) Other programs
+6) Enum
+7) Polymorphism
+8) Simple Programs
+9) Paramterized Constructor
+10) Java Libraries
+
 
 ## Build
 
