@@ -1,11 +1,12 @@
 # Assignment-4
 **Objective:** Contributing to Open Source Software
 
+
 ## Team /BITS Group32 
 * Prakhar Srivatsava (2020MT93244)
 * Prabhakar M  (2020mt93050)
 * Shammi Arora (2020mt93091)
-* Juie Deshmukh
+* Juie Deshmukh(2020mt93178)
 
 
 ## About / Synopsis
