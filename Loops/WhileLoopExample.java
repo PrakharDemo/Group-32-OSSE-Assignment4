@@ -1,17 +1,17 @@
-
+# Whileloop is updated for Student Java program projects
 public class WhileLoop 
 {
 	public static void main(String[] args) 
 	{
-		int i = 0;
+		int iValue = 0;
 		while (i < 100)
 		{
-			if (i%2 ==0)
-				System.out.println("The number " + i + " is an Even number");
+			if (iValue%2 ==0)
+				System.out.println("The number " + iValue + " is an Even number");
 			else
-				System.out.println("The number " + i + " is an Odd number");
+				System.out.println("The number " + iValue + " is an Odd number");
 			
-			i++;
+			iValue++;
 		}
 	}
 }
